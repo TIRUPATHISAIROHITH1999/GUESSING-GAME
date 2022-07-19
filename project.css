@@ -1,0 +1,112 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: inherit;
+}
+html
+{
+  font-size: 70%;
+  box-sizing: border-box;
+}
+.between
+{
+  text-align: right;
+  font-size: 30px;
+  padding: 10px;
+}
+.btn again
+{
+  margin-top: 0px;
+}
+h1
+{
+  text-align: center;
+  font-size: 50px;
+  margin-top: 80px;
+}
+.number
+{
+  margin-left: 42%;
+  margin-right: 50%;
+  font-size: 300px;
+  border: 9px dashed rgb(255, 196, 196);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 300px;
+  padding-left: 0px;
+  margin-top: 40px;
+  width: 60px;
+  text-align: center;
+  color: white; 
+  background-color: black;
+  position:absolute
+  
+}
+header
+{
+  border-bottom: 10px dashed rgb(255, 255, 255);
+  height: 580px;
+  background-color: black;
+  color: white
+  
+}
+main
+{
+  background-color: black;
+  height: 800px;
+}
+.again
+{
+  font-size: 50px;
+  border:9px dashed rgb(255, 255, 255);
+  margin-left: 50px;
+  font-family: cursive;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 80px;
+  background-color: black;
+  color: white;
+}
+.left
+{
+  width: 52rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.right
+{
+  margin-left: 65%;
+  margin-top: -300px;
+  font-size: 50px;
+  line-height: 80px;
+  color: whitesmoke;
+}
+.guess
+{
+  margin-top: 100px;
+  font-size: 230px;
+  width: 350px;
+  height: 400px;
+  padding: 20px;
+  border: 5px dashed rgb(255, 255, 255);
+  border-radius: 15px;
+  background-color: black;
+  color: white;
+  font-family: cursive;
+
+}
+#check
+{
+  font-size: 80px;
+  margin-top: 60px;
+  padding: 30px;
+  border: 10px dashed rgb(255, 255, 255);
+  border-radius: 80px;
+  background-color: black;
+  color: white;
+}
