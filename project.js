@@ -60,7 +60,7 @@ document.querySelector(".again").addEventListener("click",function()
 {
     score=20;
    seceretNumber=Math.trunc(Math.random()*20+1);
-   document.querySelector(".number").innerHTML=`<img src="https://cdn-icons.flaticon.com/png/512/3748/premium/3748240.png?token=exp=1658215451~hmac=d4683d95013a1e82ce9429a076cc9e00" alt="">`;
+   document.querySelector(".number").innerHTML=`<img src="source/question.png" alt="">`;
    document.querySelector(".headingBar").innerHTML=`<img src="https://cdn-icons-png.flaticon.com/512/2353/2353678.png" alt="">
    <img src="https://cdn-icons-png.flaticon.com/512/5264/5264753.png" alt="">
    <img src="https://cdn-icons-png.flaticon.com/512/1998/1998610.png" alt="">
