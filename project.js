@@ -5,9 +5,9 @@ let highScore=0;
 document.querySelector("#check").addEventListener("click",function()
 {
    const guess=Number(document.querySelector(".guess").value);
-   if(!guess)
+   if(!guess || guess>20)
    {
-       document.querySelector(".message").textContent="!!ENTER THE NUMBER SHEEP!!😜😜";
+       document.querySelector(".message").textContent="!!ENTER THE PROPER NUMBER HANMA!!😜😜";
    }
    else if(guess===seceretNumber)
    {
